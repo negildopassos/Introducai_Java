@@ -1,4 +1,4 @@
-package com.negildo.condicionais;
+package com.negildo.condicionaisifelse;
 
 public class IfElseAlinhado {
 

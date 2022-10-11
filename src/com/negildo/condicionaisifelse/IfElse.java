@@ -1,6 +1,4 @@
-package com.negildo.condicionais;
-
-import java.util.Scanner;
+package com.negildo.condicionaisifelse;
 
 public class IfElse {
     public static void main(String[] args) {
