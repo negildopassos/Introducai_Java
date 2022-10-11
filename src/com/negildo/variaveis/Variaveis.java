@@ -1,4 +1,4 @@
-package com.negildo.introducaojava;
+package com.negildo.variaveis;
 
 public class Variaveis {
 
